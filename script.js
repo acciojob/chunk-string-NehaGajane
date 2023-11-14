@@ -1,6 +1,6 @@
 function stringChop(str, size) {
   // your code here
-	if(str === null) retunr [];
+	if(str === null) return [];
 	
 	let i = 0;
 	let ans = [];
